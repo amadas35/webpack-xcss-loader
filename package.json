@@ -1,0 +1,21 @@
+{
+  "name": "xcss-loader",
+  "version": "1.0.0",
+  "description": "A webpack module to load Nexacro XCSS files.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amadas35/webpack-xcss-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "nexacro",
+    "xcss"
+  ],
+  "author": {
+    "name": "Donghu, Oh",
+    "email": "philip_oh@tobesoft.com"
+  }
+  "license": "ISC"
+}
